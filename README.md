@@ -1,4 +1,5 @@
 # HW8_kube_tf
+EKS cluseter with Managed Node Group
 In this task i used a local tf state
 ## Short instruction
 ```bash
